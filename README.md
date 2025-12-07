@@ -3,7 +3,7 @@
 - Generates facial landmarks for accurate expression analysis.
 - Technologies :- HTML , CSS , JavaScript , API’s
 
-# LIVE PROJECT LINK:
+# 🔴 LIVE PROJECT LINK:
 https://face-expression-detection-gamma.vercel.app/
 
 # OUTPUT IMAGES:- 

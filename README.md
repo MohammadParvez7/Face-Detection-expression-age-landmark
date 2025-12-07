@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# Face-Detection-expression-age-landmark
-=======
-# face_detection_landmark_age_expression
->>>>>>> 7d87480 (Initial commit)
+# Face Detection and Landmark Expression system.
+- Detects gender, age, and facial expressions such as anger, happiness, sadness, etc.
+- Generates facial landmarks for accurate expression analysis.
+- Technologies :- HTML , CSS , JavaScript , API’s
+
+# OUTPUT IMAGES:- 
+
+
